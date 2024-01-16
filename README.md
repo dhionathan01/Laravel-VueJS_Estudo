@@ -12,3 +12,6 @@ Defini o lugar onde ele buscarar os pacotes a ser instalados
 ```
 composer config -g repo.packagist composer https://packagist.org
 ```
+```
+composer config -g github-protocols https ssh
+```
